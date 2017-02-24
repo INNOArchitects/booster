@@ -6,9 +6,9 @@ A starting point for BoostCamp prototypes.
 
 ## Table of Contents
 
-* [Getting started guide for Meteor](#Getting-started-with-Meteor)
+* [Getting started guide for Meteor](#getting-started-with-meteor)
 * [exoscale setup & deployment guide](#exoscale-deployment)
-* [README template](#README-template) to have consistent, minimal documentation for BoostCamp prototypes
+* [README template](#readme-template) to have consistent, minimal documentation for BoostCamp prototypes
 
 ## Prerequisites
 
