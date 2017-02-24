@@ -2,6 +2,8 @@
 
 A starting point for BoostCamp prototypes.
 
+> This is only tested with Linux.
+
 ## Table of Contents
 
 * [Getting started guide for Meteor](#Getting-started-with-Meteor)
