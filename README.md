@@ -9,6 +9,7 @@ A starting point for BoostCamp prototypes.
 * [Getting started guide for Meteor](#getting-started-with-meteor)
 * [exoscale setup & deployment guide](#exoscale-deployment)
 * [README template](#readme-template) to have consistent, minimal documentation for BoostCamp prototypes
+* [Contribution infos](#contribute)
 
 ## Prerequisites
 
@@ -121,3 +122,7 @@ module.exports = {
 
 ## TBD 2.1
 ```
+
+## Contribute
+
+If you'd like to contribute, please create an issue or fork the repository and make changes as you'd like. Pull requests are warmly welcome.
