@@ -2,6 +2,8 @@
 
 Short description of the project.
 
+Config | Value
+------------ | -------------
 Exoscale Instance | my-project
 URL | http://my-project.ch
 
