@@ -113,7 +113,7 @@ module.exports = {
 
 ## README template
 
-[README templpate](READMETemplate.md) to have consistent, minimal documentation for BoostCamp prototypes.
+[README template](READMETemplate.md) to have consistent, minimal documentation for BoostCamp prototypes.
 
 ## Contribute
 

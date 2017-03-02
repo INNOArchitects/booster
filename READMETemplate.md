@@ -2,9 +2,11 @@
 
 Short description of the project.
 
+Exoscale Instance | my-project
+URL | http://my-project.ch
+
 ## Technology
 
-Example:
 * [Meteor](https://www.meteor.com) is used as general application framework with MongoDB as database provider.
 * [AngularJS](http://emberjs.com) because it supports fast prototyping with scaffolding and integrates nicely with meteor.
 * [Materialize](http://materializecss.com) to stay sane while layouting and styling web applications as a developer.
