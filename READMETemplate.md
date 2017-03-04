@@ -5,7 +5,7 @@ Short description of the project.
 Config | Value
 ------------ | -------------
 Exoscale Instance | my-project
-URL | http://my-project.ch
+URL | <http://my-project.ch>
 
 ## Technology
 
@@ -34,9 +34,11 @@ meteor npm install
 ## Running / Development
 
 `meteor`
+
 * Visit your app at [http://localhost:3000](http://localhost:3000).
 
 ## Deploy to production
 
 Deploy the meteor app
-  * `mup deploy`
+
+* `mup deploy`
